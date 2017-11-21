@@ -1,0 +1,104 @@
+body {
+	background-color: #646464;
+	color: #ffffff;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 12pt;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	word-spacing: 1px;
+	text-indent: 0;
+	text-align: center;
+}
+
+p {
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.heading {
+	background-color: #959595;
+	width: 100%;
+	padding: 10px 0px 10px 0px;
+	margin: 0px auto 0px auto;
+}
+
+h1 {
+	width: 300px;
+	padding: 10px 0px 0px 0px;
+	margin: 0px auto 0px auto;
+}
+
+ul {
+	width: 300px;
+	margin: 10px auto 10px auto;
+}
+
+.nav {
+	margin: 0px auto 0px auto;
+}
+
+li {
+	display: inline;
+	margin-right: 30px
+}
+
+hr {
+	width: 100%;
+	margin: 0px auto 10px auto;
+}
+
+fieldset {
+	text-align: left;
+	width: 30%;
+	margin: 0px auto 0px auto;
+	line-height: 1px;
+}
+
+#bio {
+	text-align: left;
+	width: 50em;
+	margin: 0px auto 0px auto;
+}
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: #191970;
+}
+
+a:hover {
+	color: #8db9e5;
+}
+
+#contact {
+	width: 500px;
+	margin: 10px auto 20px auto;
+}
+
+table {
+	width: 400px;
+	margin: 0px auto 0px auto;
+	border-spacing: 0px 0px;
+	border-collapse: collapse;
+}
+
+th {
+	text-transform: uppercase;
+}
+
+th, td {
+	padding: 5px 5px 5px 5px;
+	border: 1px solid #ffffff;
+}
+
+#intro {
+	width: 50em;
+	margin: 0px auto 0px auto;
+}
+
+button:hover {
+	color: #8db9e5;
+}
